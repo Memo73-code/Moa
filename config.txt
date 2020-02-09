@@ -1,0 +1,8 @@
+owner=439003555077160961
+prefix=*
+game= ?Maha Mus?c *?
+
+
+stayinchannel=true
+songinstatus=false
+token=Njc1OTgyNTQ2Nzg1NTMzOTk1.Xj_EFw.BIcIyEIGA6CQOYp5xAfBoojx1_4
